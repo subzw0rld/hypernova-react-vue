@@ -3,6 +3,10 @@ This POC involves hosting 2 applications, one in React and the other in Vue with
 
 This POC was take from the following git repo --> https://github.com/marconi1992/hypernova-micro-frontends
 
+# What is Hypernova ?
+
+Hypernova is a service developed by Airbnb to support server side rendering of JS based views. or more info --> https://github.com/airbnb/hypernova
+
 # Setup
 
 - If using mac or linux then execute the setup file using the following command.
